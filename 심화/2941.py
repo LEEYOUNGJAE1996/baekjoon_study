@@ -5,7 +5,6 @@
 
 counting = 0
 strings = input()
-
 counting += strings.count('c=')
 counting += strings.count('c-')
 counting += strings.count('dz=')
